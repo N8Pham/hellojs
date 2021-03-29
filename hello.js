@@ -7,3 +7,5 @@ console.log("coding is fun");
 console.log("bedwars is fun");
 console.log("2 more line");
 console.log("yayayay");
+console.log("who what where how")
+console.log("yessssss");
